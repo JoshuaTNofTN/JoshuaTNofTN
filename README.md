@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @JuLY-LION
-- 👀 I’m interested in entertainment
+- 👀 I’m <b>interested in entertainment</b>
 - 🌱 I’m currently learning code
 - 💞️ I’m looking to collaborate with humans
 - 📫 How to reach me: on the internet
