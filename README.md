@@ -7,7 +7,7 @@ Not wanting a boring profile bio, I let Google search autofill make one for me.
 - 💼 I work at <b>burger king song</b>
 - 🏠 I live <b>in a van down by the river</b>
 - 🏅 I am known for <b>my thoughts on natural rights</b>
-- 💭 I blieve strongly in <b>body autonomy</b>
+- 💭 I believe strongly in <b>body autonomy</b>
 - 📫 You can reach me by <b>airplane</b>
 
 <!---
